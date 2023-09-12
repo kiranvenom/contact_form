@@ -1,3 +1,7 @@
+@font-face {
+	font-family: manrope;
+	src: url(/manrope/medium.woff2);
+}
 * {
 	margin: 0;
 	padding: 0;
