@@ -1,12 +1,9 @@
-@font-face {
-	font-family: manrope;
-	src: url(/manrope/medium.woff2);
-}
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: manrope;
+	font-family: 'Manrope', sans-serif;
 }
 
 html,
